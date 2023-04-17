@@ -1,5 +1,3 @@
-# ShareX-Modify
-ShareX Modify Edition
 # [ShareX](https://github.com/ShareX/ShareX/releases)
 
 ShareX Modify Edition only deletes unnecessary components,
